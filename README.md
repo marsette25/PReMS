@@ -1,4 +1,4 @@
-# PReMS
+# PReMS: Personal Records Management System
 
 ## Overview
 PReMS will allow users to manage the daily influx of paper and electronic records in one location. Gone are the days of trying to manage personal records in multiple locations.
